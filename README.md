@@ -11,4 +11,4 @@ This project will start soon, hopefully. Its intend is to provide real time cale
 
 ## External OTA
 
-- ([Lodgify](https://Lodgify1.referralrock.com/l/1OLIVIERVAN88/))
+- [Lodgify](https://Lodgify1.referralrock.com/l/1OLIVIERVAN88/)
